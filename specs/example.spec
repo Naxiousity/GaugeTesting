@@ -32,3 +32,5 @@ Here's a step that takes a table
      |GoCD  |1          |
      |Rhythm|0          |
     
+
+Call function from utils
