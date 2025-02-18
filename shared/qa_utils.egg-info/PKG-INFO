@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: qa_utils
+Version: 2.10.1
+Author: me
+Requires-Dist: assertpy==1.1
+Requires-Dist: python-decouple==3.8
+Requires-Dist: pytest==7.4.0
+Requires-Dist: requests==2.31.0
+Requires-Dist: pytest-ordering==0.6
+Dynamic: author
+Dynamic: requires-dist

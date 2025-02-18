@@ -1,0 +1,10 @@
+README.md
+setup.py
+shared/qa_utils.egg-info/PKG-INFO
+shared/qa_utils.egg-info/SOURCES.txt
+shared/qa_utils.egg-info/dependency_links.txt
+shared/qa_utils.egg-info/not-zip-safe
+shared/qa_utils.egg-info/requires.txt
+shared/qa_utils.egg-info/top_level.txt
+shared/qwe/__init__.py
+shared/qwe/asd.py

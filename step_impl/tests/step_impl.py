@@ -1,4 +1,5 @@
 from getgauge.python import step, before_scenario, Messages
+from ...shared.qwe.asd import hello_from_utils
 
 vowels = ["a", "e", "i", "o", "u"]
 
@@ -36,3 +37,7 @@ def assert_words_vowel_count(table):
 @before_scenario()
 def before_scenario_hook():
     assert "".join(vowels) == "aeiou"
+
+@step("Call function from utils")
+def call_utils_function():
+    print(hello_from_utils())
